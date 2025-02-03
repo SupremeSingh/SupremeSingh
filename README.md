@@ -6,17 +6,20 @@ I'm a passionate builder and educator with a focus on distributed networks, game
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
-## My Interests 
+## Motivation 🔭
 
-Have you ever felt the satisfaction of hearing a 'swoosh' as you send an email or the dopamine rush of checking likes on your latest post? If you're anything like the average internet user—spending six hours daily across 120+ webpages—you probably have. 
+Have you ever felt the satisfaction of hearing a 'swoosh' as you send an email or the dopamine rush of checking likes on your latest post? If you're anything like the average internet user—spending six hours daily across 120+ webpages—you probably have 🤓
 
-We live in a massively digitized world. A world in which everything from news to healthcare and commerce travel at the speed of the internet. A world in which emotion-driven humans mingle with data-driven AI agents. I'm interested in exploring the challenges created by this new world: misinformation, cybersecurity, data sovereignity etc.
+We live in a world where everything—news, healthcare, commerce—moves at the speed of the internet. A world where emotion-driven humans interact with data-driven AI models. But this shift brings new challenges: misinformation, cybersecurity risks, and questions of data sovereignty.
 
-I see blockchains as a means of embedding trust at the infrastructural level of the internet, and am keen on exploring various protocols to do so. So far, I have looked into - 
+I believe blockchains offer a way to embed trust directly into the internet’s infrastructure, and am eager to explore the protocols that can make turn this vision into reality.
 
-- Zero-Knowledge proofs: 
-- Blockchain data and indexing:
-  
+## Current Interests 🏗️  
+
+- Bridging Web2<>Web3: Blockchains are siloed databases, limited to their own user-generated information. How can blockchains learn about the world around them securely?
+- Accountable Data Privacy: As AI agents on-ramp to blockchain protocols, what changes do they bring to the Web3 user experiene, and what's the impact of AI agents on data sovereignty
+- Zero-Knowledge Proof Systems: Consensus is a ****. It's slow and expensive, and most Web3 users do not participate in it. How can blockchains cut down on cost,latency and energy consumption safely?
+
 <!--
 **SupremeSingh/SupremeSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
