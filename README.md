@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi!👋 I'm Manmit
 
-![5-1](https://github.com/user-attachments/assets/74e39c3e-54a5-4bfb-ba98-e8b0fb32aabc)
 
 
 <!--
