@@ -8,19 +8,21 @@ I'm a passionate builder and educator with a focus on distributed networks, game
 
 ## Motivation 🔭
 
-Have you ever felt the satisfaction of hearing a 'swoosh' as you send an email or the dopamine rush of checking likes on your latest post? If you're anything like the average internet user—spending six hours daily across 120+ webpages—you probably have 🤓
+Today, over 5 billion people around the globe have access to the world wide web 🌎 The average internet user spends an average of 6 hours browsing more than a 120 webpages every single day. As a result, the internet generates a staggering 30 terabytes of data **every second**. 
 
 We live in a world where everything—news, healthcare, commerce—moves at the speed of the internet. A world where emotion-driven humans interact with data-driven AI models. But this shift brings new challenges: misinformation, cybersecurity risks, and questions of data sovereignty.
 
-I believe blockchains offer a way to embed trust directly into the internet’s infrastructure, and am eager to explore the protocols that can turn this vision into reality.
+I believe blockchains offer a way to embed trust directly into the internet’s infrastructure, and am eager to explore the systems and protocols that can turn this vision into reality.
 
 ## Current Interests 🏗️  
 
-As a keen observer of the web, I'm excited to study and contribute to the following research directions - 
+As someone who is fascinated by emerging technologies, I'm excited to study and contribute to the following research directions - 
 
 - **Digital Identity:** How can blockchains power robust and compliant digital identities for underserved populations around the world? How can these solutions scale?
 - **Bridging Web2<>Web3:** Blockchains are siloed databases, limited to their own user-generated information. How can blockchains learn about the world around them securely?
-- **Accountable Data Privacy:** How can users share their personal data with machine learning models without compromising their privacy? And be certain they're getting the right answer?
+- **Accountable Data Privacy:** As AI agents become ever more pervasive, how can users make the most out of their online experiences without compromising their personal information?
+
+🌱 Always learning, always building!
 
 <!--
 **SupremeSingh/SupremeSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
