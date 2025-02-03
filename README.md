@@ -1,4 +1,6 @@
-## Hi!👋 I'm Manmit 
+## Hi, I'm Manmit 👋
+
+I'm a passionate builder and educator with a focus on distributed networks, game theory and blockchains. I'm always eager to meet and learn from other people shaping the future of the web.
 
 
 
