@@ -4,7 +4,7 @@ I'm a passionate builder and educator with a focus on distributed networks, game
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
-██▓▒░ ►▬ WELCOME ▬◄ ░▒▓██
+<div class="tenor-gif-embed" data-postid="7390354" data-share-method="host" data-aspect-ratio="2.295" data-width="100%"><a href="https://tenor.com/view/games-gif-7390354">Games GIF</a>from <a href="https://tenor.com/search/games-gifs">Games GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!--
 **SupremeSingh/SupremeSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
