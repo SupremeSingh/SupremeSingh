@@ -1,11 +1,10 @@
 ## Hi, I'm Manmit 👋
 
-![teaching_physics](https://github.com/user-attachments/assets/fcf2640f-00a3-460d-87ae-a30253a1403d)
-
 I'm a passionate builder and educator with a focus on distributed networks, game theory and blockchains. 
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
+![264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863](https://github.com/user-attachments/assets/b3caf752-ea28-450e-a383-b5ebcad34166)
 
 <!--
 **SupremeSingh/SupremeSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
