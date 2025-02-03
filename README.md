@@ -4,7 +4,9 @@ I'm a passionate builder and educator with a focus on distributed networks, game
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
+<a><img align="center" height="100" width="400" />
 ![games](https://github.com/user-attachments/assets/f43c2411-bd61-43e4-94e2-6c769ba2414a)
+</a>
 
 
 <!--
