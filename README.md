@@ -12,15 +12,15 @@ Have you ever felt the satisfaction of hearing a 'swoosh' as you send an email o
 
 We live in a world where everything—news, healthcare, commerce—moves at the speed of the internet. A world where emotion-driven humans interact with data-driven AI models. But this shift brings new challenges: misinformation, cybersecurity risks, and questions of data sovereignty.
 
-I believe blockchains offer a way to embed trust directly into the internet’s infrastructure, and am eager to explore the protocols that can make turn this vision into reality.
+I believe blockchains offer a way to embed trust directly into the internet’s infrastructure, and am eager to explore the protocols that can turn this vision into reality.
 
 ## Current Interests 🏗️  
 
 As a keen observer of the web, I'm excited to study and contribute to the following research directions - 
 
+- Digital Identity: How can blockchains power robust and compliant digital identities for underserved populations around the world? How can these solutions scale?
 - Bridging Web2<>Web3: Blockchains are siloed databases, limited to their own user-generated information. How can blockchains learn about the world around them securely?
-- Accountable Data Privacy: As AI agents on-ramp to blockchain protocols, what changes do they bring to the Web3 user experiene, and what's the impact of AI agents on data sovereignty?
-- Zero-Knowledge Proof Systems: Consensus is hard. It's slow and expensive, and most users do not participate in it. How can blockchains cut down on cost,latency and energy consumption safely?
+- Accountable Data Privacy: How can users share their personal data with machine learning models without compromising with their privacy? And be sure they're getting the right answer?
 
 <!--
 **SupremeSingh/SupremeSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
