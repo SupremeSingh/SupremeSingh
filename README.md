@@ -3,7 +3,6 @@
 I'm a passionate builder and educator with a focus on distributed networks, game theory and blockchains. 
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-
 <img src="https://github.com/user-attachments/assets/7578c362-236c-4bf8-b714-2b77cbc14f8a" width="100%">
 
 <!--
