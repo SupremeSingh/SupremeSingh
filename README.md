@@ -16,9 +16,11 @@ I believe blockchains offer a way to embed trust directly into the internet’s 
 
 ## Current Interests 🏗️  
 
+As a keen observer of the web, I'm excited to study and contribute to the following research directions - 
+
 - Bridging Web2<>Web3: Blockchains are siloed databases, limited to their own user-generated information. How can blockchains learn about the world around them securely?
-- Accountable Data Privacy: As AI agents on-ramp to blockchain protocols, what changes do they bring to the Web3 user experiene, and what's the impact of AI agents on data sovereignty
-- Zero-Knowledge Proof Systems: Consensus is a ****. It's slow and expensive, and most Web3 users do not participate in it. How can blockchains cut down on cost,latency and energy consumption safely?
+- Accountable Data Privacy: As AI agents on-ramp to blockchain protocols, what changes do they bring to the Web3 user experiene, and what's the impact of AI agents on data sovereignty?
+- Zero-Knowledge Proof Systems: Consensus is hard. It's slow and expensive, and most users do not participate in it. How can blockchains cut down on cost,latency and energy consumption safely?
 
 <!--
 **SupremeSingh/SupremeSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
