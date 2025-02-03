@@ -20,7 +20,7 @@ As someone who is fascinated by emerging technologies, I'm excited to study and 
 
 - **Digital Identity:** How can blockchains power robust and compliant digital identities for underserved populations around the world? How can these solutions scale?
 - **Bridging Web2<>Web3:** Blockchains are siloed databases, limited to their own user-generated information. How can blockchains learn about the world around them securely?
-- **Accountable Data Privacy:** How can companies in sectors like healthcare and supply chain leverage blockchains to enhance efficiency while safeguarding their sensitive data? 
+- **Regulation-Friendly Privacy:** How can companies in sectors like healthcare and supply chain leverage blockchains to enhance efficiency while safeguarding their sensitive data? 
 
 🌱 Always learning, always building!
 
