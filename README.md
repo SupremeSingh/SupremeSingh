@@ -20,7 +20,7 @@ As a keen observer of the web, I'm excited to study and contribute to the follow
 
 - **Digital Identity:** How can blockchains power robust and compliant digital identities for underserved populations around the world? How can these solutions scale?
 - **Bridging Web2<>Web3:** Blockchains are siloed databases, limited to their own user-generated information. How can blockchains learn about the world around them securely?
-- **Accountable Data Privacy:** How can users share their personal data with machine learning models without compromising with their privacy? And be sure they're getting the right answer?
+- **Accountable Data Privacy:** How can users share their personal data with machine learning models without compromising their privacy? And be certain they're getting the right answer?
 
 <!--
 **SupremeSingh/SupremeSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
