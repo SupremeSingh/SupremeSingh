@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![9077square__07638](https://github.com/user-attachments/assets/1a93c826-84f0-4ebb-a05d-2094d74a5eba)
+![5-1](https://github.com/user-attachments/assets/74e39c3e-54a5-4bfb-ba98-e8b0fb32aabc)
+
 
 <!--
 **SupremeSingh/SupremeSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
