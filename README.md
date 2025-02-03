@@ -1,4 +1,4 @@
-## Hi!👋 I'm Manmit ![image](https://github.com/user-attachments/assets/bf571a3d-8bd7-4885-808a-721319ad1af3)
+## Hi!👋 I'm Manmit 
 
 
 
