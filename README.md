@@ -2,4 +2,4 @@
 
 # Hi, I'm Manmit 👋
 
-I'm a passionate builder and educator exploring the intersection of computer systems, natural language processing, and reinforcement learning.
+I'm a graduate student and passionate builder exploring the intersection of computer systems, natural language processing, and reinforcement learning. I am also interested in the society-centered impacts of AI.
